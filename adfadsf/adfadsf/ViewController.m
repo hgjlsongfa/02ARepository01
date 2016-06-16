@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"sdf");
     NSLog(@"0202tree");
+    NSLog(@"03tree01");
 }
 
 - (void)didReceiveMemoryWarning {
