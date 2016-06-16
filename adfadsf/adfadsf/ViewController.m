@@ -20,6 +20,8 @@
     NSLog(@"sdf");
     NSLog(@"0202tree");
     NSLog(@"03tree01");
+    NSLog(@"04tree01");
+    NSLog(@"04tree03");
 }
 
 - (void)didReceiveMemoryWarning {
